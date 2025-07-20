@@ -1,0 +1,12 @@
+torch==1.13.1+cu117
+ torchvision==0.14.1+cu117
+ ftfy==6.1.1
+ regex==2022.10.31
+ tqdm==4.64.1
+ pandas==1.5.2
+ numpy==1.23.5
+ matplotlib==3.6.2
+ scikit-learn==1.2.0
+ pillow==9.3.0
+ git+https://github.com/KaiyangZhou/Dassl.pytorch.git
+ git+https://github.com/openai/CLIP.git
